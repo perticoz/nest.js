@@ -26,7 +26,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest] Server with CRUD operations and authentication with a JWT
 
 ## Installation
 
